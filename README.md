@@ -24,8 +24,10 @@ pip install opencv-python numpy pytesseract imutils
 2. Run the `human_detection.py` script with appropriate command-line arguments:
 
 python human_detection.py -i <path_to_image> # For image input
+![image](https://github.com/DivZyzz/Human-Detection-and-OCR/assets/136096930/66f4a2a3-988a-4786-b465-12e1ad74098d)
 
 python human_detection.py -v <path_to_video> # For video input
+![image](https://github.com/DivZyzz/Human-Detection-and-OCR/assets/136096930/51d59bcf-3fe6-481d-9af2-0678585fa955)
 
 python human_detection.py -c true # For webcam input
 
